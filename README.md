@@ -21,14 +21,17 @@ The [`exploratory/`](exploratory/) directory contains an earlier, broader develo
 ```text
 linear-regression-loss-functions/
 ├── README.md
+├── planning/
+│   └── Initial_Project_Plan.md
 ├── final/
 │   └── Linear_Regression_Loss_Functions_Final.ipynb
 └── exploratory/
     └── Linear_Regression_Full_Experiments.ipynb
 ```
 
-- `final/`: Clean synthetic baseline and final assignment implementation.
-- `exploratory/`: Earlier development work and Experiments 1–5.
+- `planning/`: Initial project plan and broader experiment design created before scope refinement.
+- `final/`: Focused clean synthetic baseline used for the final assignment.
+- `exploratory/`: Earlier development notebook containing Experiments 1–5.
 
 ## Tools
 
